@@ -1,6 +1,8 @@
 # Payment-Setroom(Aplikasi Pembayaran Listrik Pasca Bayar)
 Sebuah aplikasi berbasis web yang bertujuan untuk membayar listrik pasca bayar
 
+![Foto Cover](ss_program/index.jpg "Cover Payment Setroom")
+
 ## Fitur
 * Dashboard
 ![Foto Dashboard](ss_program/dashboard.png "Dashboard Agen")
