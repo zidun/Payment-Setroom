@@ -22,7 +22,7 @@ Sebuah aplikasi berbasis web yang bertujuan untuk membayar listrik pasca bayar
 ## Info Developer
 Jika ada pertanyaan bisa hubungi kontak dibawah : 
 * [Email](mailto:programzidun@gmail.com) - programzidun@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/rmdnzdn/) - Muhammad Ramdan
+* [LinkedIn](https://www.linkedin.com/in/ramdanzidun/) - Muhammad Ramdan
 * [Instagram](https://www.instagram.com/ramdanzidun/) - @ramdanzidun
 
 ```
