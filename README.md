@@ -1,3 +1,4 @@
+# SUDAH TIDAK DI MAINTENANCE (HARAP GUNAKAN PHP 5 AGAR TIDAK ERROR)
 # Payment-Setroom(Aplikasi Pembayaran Listrik Pasca Bayar)
 Sebuah aplikasi berbasis web yang bertujuan untuk membayar listrik pasca bayar
 
@@ -19,11 +20,9 @@ Sebuah aplikasi berbasis web yang bertujuan untuk membayar listrik pasca bayar
 * Javascript
 * Bootstrap 
 
-## Info Developer
-Jika ada pertanyaan bisa hubungi kontak dibawah : 
+## Credit Developer
 * [Email](mailto:programzidun@gmail.com) - programzidun@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/ramdanzidun/) - Muhammad Ramdan
-* [Instagram](https://www.instagram.com/ramdanzidun/) - @ramdanzidun
 
 ```
  Ku Coding Kau dengan Bismillah
